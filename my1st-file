@@ -1,2 +1,6 @@
 this is my first git-server file
+<<<<<<< HEAD
 hello world today is monday & yesterday was sunday and it was a weekend.
+=======
+adding 2nd line 
+>>>>>>> c3238a958cfb341c218658bb8ddc9454162fea67
